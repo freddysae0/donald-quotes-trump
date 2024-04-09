@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Donald Quotes Trump es un generador de texto basado en Markov que crea frases falsas de Donald Trump a partir de sus tweets. Este proyecto es una forma divertida y creativa de explorar la generación de texto y la programación en JavaScript.
+Donald Quotes Trump es una biblioteca repleta de frases de Donald Trump. Puedes generar frases aleatorias del susodicho
 
 ## Uso
 
@@ -32,4 +32,4 @@ Las contribuciones son bienvenidas. Si tienes ideas para mejorar el generador o 
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia ISC.
+Este proyecto está licenciado bajo la licencia MIT.
