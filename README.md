@@ -15,8 +15,8 @@ npm install donald-quotes-trump
 Luego puedes importarlo en tu proyecto:
 
 ```js
-const { randomDonaldQuote } = require("donald-quotes-trump");
-console.log(randomDonaldQuote()); //We've had soldiers that were so badly hurt and killed. I want their families to get something.
+const { randomQuote } = require("donald-quotes-trump");
+console.log(randomQuote()); //We've had soldiers that were so badly hurt and killed. I want their families to get something.
 ```
 
 ## Ejemplos

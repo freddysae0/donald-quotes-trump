@@ -1,5 +1,3 @@
-const { randomDonaldQuote } = require("./index");
+const { randomQuote, quoteAbout } = require("./index");
 
-console.log(randomDonaldQuote());
-console.log(randomDonaldQuote());
-console.log(randomDonaldQuote());
+console.log(quoteAbout("i love"));
